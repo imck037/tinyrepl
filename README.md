@@ -99,20 +99,8 @@ Planned features:
 
 ---
 
-## 📚 Learning Focus
-
-This is not meant to be a production language — it’s a **learning project** focused on:
-
-* Compiler theory
-* Language design
-* Interpreter architecture
-* Systems programming
-* Tooling (Flex/Bison, Make, C)
-
----
-
 ## 📄 License
 
-MIT License
+GNU General Public License
 
 ---
